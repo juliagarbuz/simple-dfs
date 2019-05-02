@@ -1,0 +1,1000 @@
+read, file6.txt
+read, file10.txt
+read, file1.txt
+read, file2.txt
+read, file9.txt
+read, file10.txt
+read, file9.txt
+read, file4.txt
+read, file3.txt
+read, file4.txt
+read, file3.txt
+read, file9.txt
+read, file8.txt
+read, file5.txt
+read, file3.txt
+read, file7.txt
+read, file1.txt
+write, file2.txt, This is command number 18.
+read, file10.txt
+read, file1.txt
+read, file3.txt
+read, file10.txt
+read, file3.txt
+read, file9.txt
+read, file1.txt
+read, file10.txt
+read, file2.txt
+read, file10.txt
+read, file10.txt
+read, file2.txt
+write, file10.txt, This is command number 31.
+read, file9.txt
+read, file1.txt
+read, file8.txt
+read, file4.txt
+read, file1.txt
+read, file2.txt
+read, file9.txt
+read, file6.txt
+read, file4.txt
+read, file2.txt
+read, file2.txt
+read, file6.txt
+read, file10.txt
+read, file6.txt
+read, file10.txt
+read, file1.txt
+read, file8.txt
+read, file10.txt
+read, file3.txt
+read, file4.txt
+read, file8.txt
+read, file2.txt
+write, file3.txt, This is command number 54.
+read, file4.txt
+write, file1.txt, This is command number 56.
+read, file6.txt
+read, file4.txt
+read, file8.txt
+read, file1.txt
+read, file9.txt
+read, file2.txt
+write, file7.txt, This is command number 63.
+read, file7.txt
+read, file4.txt
+read, file6.txt
+read, file3.txt
+read, file8.txt
+read, file6.txt
+read, file5.txt
+read, file10.txt
+write, file10.txt, This is command number 72.
+read, file8.txt
+read, file7.txt
+read, file4.txt
+read, file9.txt
+read, file8.txt
+read, file6.txt
+read, file2.txt
+read, file2.txt
+read, file3.txt
+read, file3.txt
+read, file3.txt
+read, file2.txt
+read, file10.txt
+read, file6.txt
+read, file9.txt
+write, file8.txt, This is command number 88.
+read, file2.txt
+read, file6.txt
+read, file7.txt
+read, file1.txt
+read, file2.txt
+write, file8.txt, This is command number 94.
+read, file1.txt
+read, file1.txt
+write, file7.txt, This is command number 97.
+write, file8.txt, This is command number 98.
+read, file1.txt
+read, file1.txt
+read, file2.txt
+read, file6.txt
+read, file1.txt
+read, file1.txt
+read, file7.txt
+read, file2.txt
+read, file4.txt
+read, file5.txt
+read, file4.txt
+read, file7.txt
+read, file2.txt
+write, file3.txt, This is command number 112.
+write, file8.txt, This is command number 113.
+read, file9.txt
+read, file7.txt
+write, file4.txt, This is command number 116.
+read, file9.txt
+read, file10.txt
+read, file5.txt
+read, file6.txt
+read, file8.txt
+write, file7.txt, This is command number 122.
+read, file10.txt
+write, file4.txt, This is command number 124.
+read, file6.txt
+read, file6.txt
+read, file9.txt
+read, file10.txt
+write, file4.txt, This is command number 129.
+read, file10.txt
+write, file9.txt, This is command number 131.
+read, file4.txt
+read, file8.txt
+read, file6.txt
+read, file5.txt
+read, file2.txt
+read, file4.txt
+read, file2.txt
+read, file7.txt
+read, file9.txt
+read, file8.txt
+read, file6.txt
+read, file9.txt
+write, file3.txt, This is command number 144.
+read, file4.txt
+read, file5.txt
+read, file1.txt
+read, file10.txt
+read, file4.txt
+read, file10.txt
+read, file6.txt
+read, file2.txt
+write, file10.txt, This is command number 153.
+read, file5.txt
+read, file3.txt
+read, file8.txt
+write, file5.txt, This is command number 157.
+read, file4.txt
+write, file7.txt, This is command number 159.
+read, file2.txt
+read, file8.txt
+write, file9.txt, This is command number 162.
+read, file3.txt
+read, file4.txt
+read, file9.txt
+read, file1.txt
+read, file4.txt
+read, file1.txt
+read, file6.txt
+read, file9.txt
+read, file7.txt
+write, file5.txt, This is command number 172.
+read, file2.txt
+read, file5.txt
+read, file8.txt
+read, file9.txt
+read, file8.txt
+read, file4.txt
+read, file7.txt
+read, file4.txt
+read, file10.txt
+read, file2.txt
+read, file6.txt
+read, file10.txt
+read, file8.txt
+read, file4.txt
+read, file10.txt
+read, file8.txt
+read, file7.txt
+read, file7.txt
+read, file8.txt
+read, file7.txt
+write, file6.txt, This is command number 193.
+read, file5.txt
+read, file9.txt
+read, file8.txt
+read, file4.txt
+read, file1.txt
+read, file6.txt
+read, file5.txt
+read, file3.txt
+read, file4.txt
+write, file8.txt, This is command number 203.
+read, file8.txt
+read, file4.txt
+read, file6.txt
+read, file3.txt
+read, file4.txt
+write, file1.txt, This is command number 209.
+read, file2.txt
+read, file4.txt
+read, file2.txt
+read, file6.txt
+read, file7.txt
+read, file5.txt
+write, file10.txt, This is command number 216.
+read, file6.txt
+read, file2.txt
+write, file7.txt, This is command number 219.
+read, file4.txt
+read, file7.txt
+read, file1.txt
+write, file8.txt, This is command number 223.
+read, file9.txt
+read, file5.txt
+read, file1.txt
+read, file8.txt
+read, file4.txt
+read, file1.txt
+write, file10.txt, This is command number 230.
+read, file7.txt
+read, file5.txt
+read, file3.txt
+read, file4.txt
+read, file3.txt
+read, file8.txt
+read, file7.txt
+read, file10.txt
+read, file8.txt
+read, file3.txt
+write, file9.txt, This is command number 241.
+read, file5.txt
+read, file5.txt
+read, file2.txt
+write, file7.txt, This is command number 245.
+read, file6.txt
+read, file8.txt
+read, file7.txt
+read, file2.txt
+read, file4.txt
+write, file10.txt, This is command number 251.
+read, file4.txt
+read, file2.txt
+read, file2.txt
+read, file2.txt
+read, file7.txt
+read, file2.txt
+read, file5.txt
+read, file2.txt
+read, file4.txt
+read, file5.txt
+read, file7.txt
+read, file9.txt
+read, file2.txt
+read, file10.txt
+read, file10.txt
+read, file6.txt
+read, file8.txt
+read, file6.txt
+read, file7.txt
+read, file1.txt
+write, file3.txt, This is command number 272.
+read, file5.txt
+read, file3.txt
+read, file4.txt
+read, file4.txt
+read, file1.txt
+read, file8.txt
+read, file2.txt
+read, file6.txt
+read, file6.txt
+read, file10.txt
+read, file6.txt
+read, file2.txt
+read, file2.txt
+read, file1.txt
+read, file9.txt
+write, file2.txt, This is command number 288.
+read, file9.txt
+read, file10.txt
+write, file10.txt, This is command number 291.
+read, file8.txt
+read, file9.txt
+read, file8.txt
+write, file1.txt, This is command number 295.
+read, file10.txt
+read, file10.txt
+read, file8.txt
+read, file2.txt
+read, file7.txt
+read, file2.txt
+read, file6.txt
+write, file7.txt, This is command number 303.
+read, file3.txt
+read, file7.txt
+read, file8.txt
+read, file1.txt
+read, file7.txt
+read, file3.txt
+read, file2.txt
+read, file1.txt
+read, file9.txt
+read, file5.txt
+read, file5.txt
+read, file8.txt
+read, file9.txt
+write, file7.txt, This is command number 317.
+read, file9.txt
+read, file5.txt
+read, file8.txt
+read, file5.txt
+read, file5.txt
+read, file5.txt
+read, file7.txt
+read, file2.txt
+read, file10.txt
+read, file6.txt
+read, file8.txt
+read, file8.txt
+read, file1.txt
+read, file6.txt
+read, file7.txt
+read, file3.txt
+read, file4.txt
+read, file10.txt
+read, file9.txt
+read, file4.txt
+read, file1.txt
+read, file3.txt
+write, file6.txt, This is command number 340.
+read, file3.txt
+read, file9.txt
+read, file6.txt
+read, file7.txt
+read, file5.txt
+read, file9.txt
+read, file9.txt
+read, file4.txt
+write, file1.txt, This is command number 349.
+read, file2.txt
+read, file10.txt
+read, file7.txt
+read, file7.txt
+read, file3.txt
+read, file5.txt
+read, file3.txt
+read, file4.txt
+read, file10.txt
+read, file8.txt
+read, file3.txt
+read, file3.txt
+read, file3.txt
+read, file3.txt
+read, file4.txt
+read, file1.txt
+read, file6.txt
+read, file1.txt
+write, file6.txt, This is command number 368.
+read, file1.txt
+write, file2.txt, This is command number 370.
+read, file6.txt
+read, file4.txt
+read, file5.txt
+read, file9.txt
+read, file9.txt
+read, file1.txt
+read, file4.txt
+read, file6.txt
+read, file5.txt
+read, file4.txt
+read, file2.txt
+read, file6.txt
+write, file5.txt, This is command number 383.
+read, file4.txt
+read, file2.txt
+read, file8.txt
+read, file6.txt
+read, file4.txt
+read, file8.txt
+read, file4.txt
+write, file6.txt, This is command number 391.
+read, file8.txt
+read, file8.txt
+read, file8.txt
+read, file4.txt
+read, file8.txt
+read, file5.txt
+read, file3.txt
+read, file8.txt
+read, file9.txt
+read, file6.txt
+read, file2.txt
+read, file8.txt
+read, file2.txt
+read, file3.txt
+read, file3.txt
+write, file4.txt, This is command number 407.
+read, file8.txt
+read, file8.txt
+read, file2.txt
+read, file6.txt
+read, file6.txt
+write, file3.txt, This is command number 413.
+read, file3.txt
+read, file3.txt
+read, file6.txt
+read, file5.txt
+read, file1.txt
+read, file9.txt
+read, file3.txt
+read, file7.txt
+write, file6.txt, This is command number 422.
+write, file2.txt, This is command number 423.
+read, file5.txt
+read, file7.txt
+read, file9.txt
+read, file2.txt
+write, file2.txt, This is command number 428.
+read, file1.txt
+read, file10.txt
+read, file7.txt
+read, file9.txt
+read, file4.txt
+read, file10.txt
+write, file9.txt, This is command number 435.
+read, file3.txt
+read, file7.txt
+read, file3.txt
+read, file6.txt
+read, file1.txt
+read, file10.txt
+read, file10.txt
+read, file1.txt
+read, file5.txt
+read, file7.txt
+read, file4.txt
+read, file5.txt
+read, file10.txt
+write, file10.txt, This is command number 449.
+write, file1.txt, This is command number 450.
+read, file10.txt
+read, file1.txt
+read, file3.txt
+read, file4.txt
+read, file2.txt
+read, file5.txt
+read, file2.txt
+read, file2.txt
+read, file1.txt
+read, file9.txt
+read, file10.txt
+write, file5.txt, This is command number 462.
+read, file10.txt
+read, file2.txt
+read, file7.txt
+read, file7.txt
+read, file9.txt
+read, file4.txt
+read, file2.txt
+read, file3.txt
+read, file6.txt
+read, file1.txt
+read, file9.txt
+write, file6.txt, This is command number 474.
+write, file6.txt, This is command number 475.
+read, file8.txt
+read, file7.txt
+read, file4.txt
+read, file2.txt
+write, file7.txt, This is command number 480.
+read, file8.txt
+read, file9.txt
+write, file7.txt, This is command number 483.
+read, file4.txt
+read, file4.txt
+read, file2.txt
+read, file9.txt
+read, file9.txt
+read, file2.txt
+read, file6.txt
+read, file10.txt
+read, file5.txt
+read, file8.txt
+write, file4.txt, This is command number 494.
+read, file4.txt
+read, file4.txt
+read, file8.txt
+read, file8.txt
+read, file9.txt
+read, file3.txt
+read, file8.txt
+read, file5.txt
+write, file8.txt, This is command number 503.
+read, file4.txt
+read, file2.txt
+read, file6.txt
+read, file1.txt
+write, file4.txt, This is command number 508.
+read, file8.txt
+read, file1.txt
+read, file9.txt
+read, file5.txt
+read, file7.txt
+read, file3.txt
+read, file7.txt
+read, file5.txt
+read, file4.txt
+read, file8.txt
+read, file10.txt
+read, file7.txt
+read, file5.txt
+read, file9.txt
+read, file9.txt
+read, file5.txt
+read, file9.txt
+read, file4.txt
+read, file3.txt
+read, file1.txt
+read, file6.txt
+read, file8.txt
+read, file4.txt
+read, file6.txt
+read, file2.txt
+read, file1.txt
+write, file6.txt, This is command number 535.
+read, file2.txt
+read, file10.txt
+read, file3.txt
+read, file1.txt
+read, file4.txt
+read, file9.txt
+read, file10.txt
+write, file7.txt, This is command number 543.
+read, file9.txt
+read, file4.txt
+read, file1.txt
+read, file2.txt
+read, file5.txt
+read, file3.txt
+read, file8.txt
+read, file3.txt
+read, file5.txt
+read, file10.txt
+read, file8.txt
+read, file4.txt
+read, file1.txt
+write, file9.txt, This is command number 557.
+read, file9.txt
+read, file8.txt
+read, file8.txt
+read, file2.txt
+read, file1.txt
+read, file2.txt
+read, file6.txt
+read, file5.txt
+read, file4.txt
+read, file7.txt
+read, file8.txt
+read, file10.txt
+read, file8.txt
+read, file1.txt
+read, file4.txt
+read, file7.txt
+read, file5.txt
+read, file8.txt
+read, file8.txt
+read, file3.txt
+read, file5.txt
+read, file9.txt
+read, file2.txt
+read, file3.txt
+read, file2.txt
+read, file1.txt
+read, file1.txt
+read, file5.txt
+read, file4.txt
+read, file2.txt
+read, file1.txt
+read, file1.txt
+read, file2.txt
+read, file4.txt
+read, file4.txt
+read, file1.txt
+read, file6.txt
+read, file2.txt
+write, file1.txt, This is command number 596.
+read, file2.txt
+read, file3.txt
+read, file3.txt
+read, file6.txt
+write, file10.txt, This is command number 601.
+read, file3.txt
+read, file10.txt
+read, file8.txt
+read, file8.txt
+read, file2.txt
+read, file8.txt
+read, file10.txt
+read, file8.txt
+read, file2.txt
+read, file5.txt
+read, file3.txt
+read, file7.txt
+read, file8.txt
+read, file6.txt
+read, file1.txt
+read, file7.txt
+read, file4.txt
+write, file7.txt, This is command number 619.
+write, file8.txt, This is command number 620.
+read, file5.txt
+read, file8.txt
+read, file2.txt
+read, file6.txt
+read, file3.txt
+read, file1.txt
+read, file7.txt
+read, file9.txt
+read, file6.txt
+read, file6.txt
+read, file7.txt
+read, file3.txt
+read, file7.txt
+write, file7.txt, This is command number 634.
+read, file10.txt
+read, file4.txt
+read, file4.txt
+read, file10.txt
+read, file3.txt
+read, file6.txt
+read, file6.txt
+write, file4.txt, This is command number 642.
+read, file1.txt
+read, file2.txt
+read, file5.txt
+read, file3.txt
+write, file7.txt, This is command number 647.
+read, file8.txt
+read, file10.txt
+read, file5.txt
+read, file5.txt
+read, file3.txt
+read, file4.txt
+read, file3.txt
+read, file5.txt
+read, file4.txt
+read, file7.txt
+read, file1.txt
+read, file6.txt
+read, file10.txt
+read, file6.txt
+read, file10.txt
+read, file10.txt
+read, file6.txt
+read, file2.txt
+read, file8.txt
+read, file3.txt
+read, file5.txt
+read, file6.txt
+read, file10.txt
+read, file4.txt
+read, file6.txt
+read, file3.txt
+read, file9.txt
+read, file7.txt
+read, file5.txt
+read, file2.txt
+read, file4.txt
+read, file1.txt
+read, file5.txt
+read, file7.txt
+read, file8.txt
+read, file7.txt
+read, file6.txt
+read, file7.txt
+write, file3.txt, This is command number 686.
+read, file7.txt
+read, file3.txt
+read, file7.txt
+read, file5.txt
+read, file5.txt
+write, file6.txt, This is command number 692.
+read, file1.txt
+read, file7.txt
+read, file9.txt
+read, file3.txt
+write, file6.txt, This is command number 697.
+read, file9.txt
+read, file4.txt
+read, file6.txt
+read, file4.txt
+read, file2.txt
+read, file8.txt
+read, file4.txt
+read, file8.txt
+read, file4.txt
+read, file9.txt
+read, file9.txt
+write, file3.txt, This is command number 709.
+read, file8.txt
+read, file6.txt
+read, file4.txt
+read, file10.txt
+read, file8.txt
+read, file7.txt
+read, file2.txt
+write, file6.txt, This is command number 717.
+read, file9.txt
+read, file6.txt
+read, file3.txt
+write, file4.txt, This is command number 721.
+read, file10.txt
+read, file5.txt
+read, file7.txt
+read, file8.txt
+read, file5.txt
+read, file2.txt
+read, file2.txt
+read, file2.txt
+read, file4.txt
+read, file6.txt
+read, file10.txt
+write, file1.txt, This is command number 733.
+read, file8.txt
+read, file9.txt
+write, file7.txt, This is command number 736.
+read, file5.txt
+read, file8.txt
+read, file2.txt
+read, file9.txt
+read, file3.txt
+read, file10.txt
+read, file7.txt
+write, file5.txt, This is command number 744.
+read, file8.txt
+write, file3.txt, This is command number 746.
+read, file2.txt
+read, file9.txt
+read, file1.txt
+read, file1.txt
+read, file6.txt
+read, file3.txt
+read, file2.txt
+read, file5.txt
+read, file3.txt
+read, file3.txt
+read, file10.txt
+read, file7.txt
+read, file10.txt
+read, file4.txt
+read, file1.txt
+read, file3.txt
+read, file7.txt
+read, file4.txt
+read, file6.txt
+read, file8.txt
+read, file3.txt
+read, file3.txt
+write, file1.txt, This is command number 769.
+read, file10.txt
+read, file2.txt
+read, file7.txt
+read, file5.txt
+write, file2.txt, This is command number 774.
+read, file2.txt
+read, file4.txt
+read, file7.txt
+read, file4.txt
+read, file8.txt
+read, file3.txt
+read, file1.txt
+write, file9.txt, This is command number 782.
+read, file3.txt
+read, file6.txt
+read, file5.txt
+read, file7.txt
+read, file2.txt
+read, file3.txt
+read, file10.txt
+read, file10.txt
+write, file6.txt, This is command number 791.
+read, file4.txt
+write, file4.txt, This is command number 793.
+read, file8.txt
+read, file9.txt
+read, file1.txt
+read, file1.txt
+read, file10.txt
+read, file4.txt
+read, file5.txt
+read, file4.txt
+read, file8.txt
+write, file4.txt, This is command number 803.
+read, file8.txt
+read, file7.txt
+read, file2.txt
+read, file10.txt
+read, file4.txt
+write, file8.txt, This is command number 809.
+write, file6.txt, This is command number 810.
+read, file4.txt
+read, file1.txt
+read, file1.txt
+read, file5.txt
+read, file4.txt
+read, file6.txt
+read, file3.txt
+read, file6.txt
+read, file9.txt
+read, file10.txt
+read, file5.txt
+read, file10.txt
+read, file5.txt
+read, file2.txt
+read, file9.txt
+read, file5.txt
+read, file9.txt
+read, file2.txt
+read, file1.txt
+read, file2.txt
+read, file10.txt
+read, file1.txt
+read, file4.txt
+read, file3.txt
+read, file2.txt
+read, file2.txt
+read, file6.txt
+read, file3.txt
+read, file10.txt
+read, file4.txt
+read, file7.txt
+read, file4.txt
+read, file8.txt
+read, file9.txt
+read, file4.txt
+read, file10.txt
+read, file6.txt
+read, file4.txt
+read, file2.txt
+read, file8.txt
+read, file3.txt
+read, file1.txt
+read, file1.txt
+read, file4.txt
+read, file6.txt
+read, file9.txt
+read, file7.txt
+read, file2.txt
+read, file10.txt
+read, file2.txt
+read, file1.txt
+read, file10.txt
+read, file5.txt
+read, file5.txt
+read, file3.txt
+read, file5.txt
+read, file2.txt
+read, file1.txt
+read, file7.txt
+read, file9.txt
+read, file3.txt
+read, file3.txt
+write, file1.txt, This is command number 873.
+read, file2.txt
+read, file10.txt
+read, file6.txt
+read, file3.txt
+read, file8.txt
+read, file9.txt
+read, file6.txt
+read, file9.txt
+read, file7.txt
+read, file3.txt
+read, file9.txt
+read, file9.txt
+read, file8.txt
+read, file8.txt
+read, file5.txt
+write, file4.txt, This is command number 889.
+read, file2.txt
+read, file8.txt
+read, file6.txt
+read, file5.txt
+read, file9.txt
+read, file6.txt
+read, file1.txt
+read, file2.txt
+read, file2.txt
+read, file3.txt
+read, file7.txt
+read, file8.txt
+read, file4.txt
+read, file3.txt
+read, file4.txt
+read, file3.txt
+read, file2.txt
+write, file6.txt, This is command number 907.
+write, file1.txt, This is command number 908.
+read, file8.txt
+read, file9.txt
+read, file6.txt
+read, file7.txt
+read, file9.txt
+read, file9.txt
+read, file8.txt
+read, file1.txt
+read, file10.txt
+read, file8.txt
+read, file7.txt
+read, file2.txt
+read, file10.txt
+read, file3.txt
+read, file4.txt
+read, file8.txt
+write, file3.txt, This is command number 925.
+read, file10.txt
+read, file1.txt
+read, file3.txt
+read, file9.txt
+read, file2.txt
+read, file9.txt
+read, file7.txt
+read, file2.txt
+write, file9.txt, This is command number 934.
+write, file4.txt, This is command number 935.
+write, file1.txt, This is command number 936.
+read, file8.txt
+write, file10.txt, This is command number 938.
+read, file10.txt
+read, file3.txt
+read, file1.txt
+read, file1.txt
+read, file10.txt
+read, file9.txt
+read, file2.txt
+read, file8.txt
+read, file7.txt
+write, file4.txt, This is command number 948.
+read, file6.txt
+read, file4.txt
+read, file4.txt
+read, file3.txt
+read, file4.txt
+read, file5.txt
+read, file6.txt
+read, file7.txt
+read, file5.txt
+read, file8.txt
+read, file8.txt
+read, file3.txt
+write, file3.txt, This is command number 961.
+read, file3.txt
+read, file7.txt
+read, file4.txt
+write, file1.txt, This is command number 965.
+write, file2.txt, This is command number 966.
+read, file3.txt
+read, file7.txt
+read, file1.txt
+read, file1.txt
+read, file6.txt
+read, file7.txt
+read, file10.txt
+write, file4.txt, This is command number 974.
+read, file9.txt
+read, file1.txt
+read, file3.txt
+read, file4.txt
+read, file10.txt
+read, file1.txt
+read, file5.txt
+read, file10.txt
+read, file4.txt
+read, file6.txt
+read, file3.txt
+read, file1.txt
+read, file9.txt
+read, file8.txt
+read, file4.txt
+read, file3.txt
+write, file7.txt, This is command number 991.
+read, file4.txt
+read, file9.txt
+read, file4.txt
+read, file6.txt
+read, file5.txt
+read, file4.txt
+read, file4.txt
+read, file1.txt
+read, file10.txt

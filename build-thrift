@@ -1,0 +1,15 @@
+#!/bin/bash
+# COMPILE & CLEAN SCRIPT FOR [ THRIFT FILES ]
+
+line="\n===================================================================================================\n"
+
+# LABELS
+COMPILING=$line"COMPILING THRIFT FOR DFS..."$line
+COMPILED="Done compiling Thrift"
+
+COMPILE_DFS="thrift -r --gen java dfs.thrift"
+
+# EXECUTE
+clear
+./clean
+(echo -e $COMPILING) && $COMPILE_DFS && (echo -e $COMPILED)

@@ -1,0 +1,32 @@
+#!/bin/bash
+# COMPILE & RUN & CLEAN SCRIPT FOR [ NODES ]
+
+line="\n===================================================================================================\n"
+
+ROOT_TO_JAVA="src/main/java/"
+JAVA_TO_ROOT="../../../"
+
+GEN_JAVA_DIR="gen-java/"
+
+ARGS="$@"
+
+# LABELS
+COMPILING=$line"COMPILING NODE..."$line
+STARTING=$line"STARTING NODE..."$line
+
+# COMMANDS
+COMPILE="javac -cp ".:"$JAVA_TO_ROOT"gen-java:/usr/local/Thrift/*" DFSNodeInstance.java"
+START="java -cp ".:"$JAVA_TO_ROOT"gen-java:/usr/local/Thrift/*" DFSNodeInstance $ARGS"
+
+# EXECUTE
+if !(test -d $GEN_JAVA_DIR)
+then
+  ./build-thrift
+else
+  clear
+fi
+cd $ROOT_TO_JAVA
+(echo -e $COMPILING) && $COMPILE && (echo -e $STARTING) && $START
+cd $JAVA_TO_ROOT
+
+./clean

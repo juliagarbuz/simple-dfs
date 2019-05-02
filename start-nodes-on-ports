@@ -1,0 +1,15 @@
+#!/bin/bash
+
+ROOT_TO_JAVA="src/main/java/"
+JAVA_TO_ROOT="../../../"
+
+# COMMANDS
+COMPILE="javac -cp ".:"$JAVA_TO_ROOT"gen-java:/usr/local/Thrift/*" DFSNodeInstance.java"
+START="java -cp ".:"$JAVA_TO_ROOT"gen-java:/usr/local/Thrift/*" DFSNodeInstance"
+
+cd $ROOT_TO_JAVA
+for var in "$@"
+do
+    $START $var &
+done
+wait

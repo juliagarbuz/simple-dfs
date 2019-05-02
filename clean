@@ -1,0 +1,70 @@
+#!/bin/bash
+# CLEAN SCRIPT (removes .class files and data dir)
+
+JAVA="src/main/java/"
+JAVA_TO_ROOT="../../../"
+GEN_JAVA_DIR="gen-java/"
+DATA_DIR="data/"
+CLASS_FILES=$JAVA"*.class"
+
+CLASS_FILE_COUNT=$(cd $JAVA ; find . -type f -name '*.class' | wc -l ; cd $JAVA_TO_ROOT)
+
+line="\n===================================================================================================\n"
+
+CLEANING=$line"CLEANING UP..."$line
+DONE=$line"CLEANING COMPLETE."$line
+
+CLEAN_THRIFT="Removing thrift files..."
+CLEAN_DATA="Removing data directory..."
+CLEAN_CLASSES="Removing class files..."
+
+# TO DO IN ROOT:
+RM_GEN_JAVA="rm -r "$GEN_JAVA_DIR
+RM_DATA_DIR="rm -r "$DATA_DIR
+RM_CLASSES="rm "$CLASS_FILES
+
+start() {
+  (echo -e $CLEANING)
+}
+
+clean_gen_java() {
+  if [ -d $GEN_JAVA_DIR ]; then
+    (echo -e $CLEAN_THRIFT)
+    $RM_GEN_JAVA
+  fi
+}
+
+clean_data() {
+  if [ -d $DATA_DIR ]; then
+    (echo -e $CLEAN_DATA)
+    $RM_DATA_DIR
+  fi
+}
+
+clean_class_files() {
+  if [[ $CLASS_FILE_COUNT != 0 ]]; then
+    (echo -e $CLEAN_CLASSES)
+    $RM_CLASSES
+  fi
+}
+
+fix_prop_file(){
+  cd $JAVA
+  javac RevertDFSPropFile.java &&
+  java RevertDFSPropFile
+  cd $JAVA_TO_ROOT
+}
+
+blankline() {
+  echo -e ""
+}
+
+# EXECUTE:
+if [[ -d $GEN_JAVA_DIR  ||  -d $DATA_DIR  || $CLASS_FILE_COUNT != 0 ]]; then
+    start
+    clean_gen_java
+    clean_data
+    fix_prop_file  # just in case coordinater crashes and cant write and close
+    clean_class_files
+    blankline
+fi

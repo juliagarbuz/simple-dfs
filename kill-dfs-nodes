@@ -1,0 +1,1 @@
+kill `jps | grep "DFSNodeInstance" | cut -d " " -f 1`
